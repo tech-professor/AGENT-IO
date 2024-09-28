@@ -12,7 +12,7 @@ const addEventOnElements = function (elements, eventType, callback) {
   }
 }
 
-
+ccc
 
 /**
  * NAVBAR TOGGLE FOR MOBILE
